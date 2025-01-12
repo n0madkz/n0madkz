@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aidyn</h1>
-<h3 align="center">Backend developer from Kazakhstan 🇰🇿</h3>
+<h3 align="center">Backend developer from Kazakhstan</h3>
 
 - 🌱 I’m currently learning **Go**
 
